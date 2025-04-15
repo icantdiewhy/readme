@@ -1,7 +1,7 @@
 # Merhaba, ben Eren! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KuraPiee&label=Profil%20Ziyaretleri&color=red&style=for-the-badge" alt="Profil Ziyaretleri">
+  <img src="https://komarev.com/ghpvc/?username=icantdiewhy&label=Profil%20Ziyaretleri&color=red&style=for-the-badge" alt="Profil Ziyaretleri">
 </p>
 
 Ben **Eren**, 25 yaşındayım ve yazılım geliştirme ile ilgileniyorum. İşte bildiğim diller ve teknolojiler:
@@ -18,8 +18,8 @@ Ben **Eren**, 25 yaşındayım ve yazılım geliştirme ile ilgileniyorum. İşt
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loser350&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loser350&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=icantdiewhy&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icantdiewhy&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 
@@ -28,7 +28,7 @@ Ben **Eren**, 25 yaşındayım ve yazılım geliştirme ile ilgileniyorum. İşt
 # Hello, I'm Eren! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KuraPiee&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=icantdiewhy&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views">
 </p>
 
 I'm **Eren**, an 25-year-old developer passionate about coding. Here are the technologies and languages I work with:
@@ -45,8 +45,8 @@ I'm **Eren**, an 25-year-old developer passionate about coding. Here are the tec
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuraPiee&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuraPiee&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=icantdiewhy&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icantdiewhy&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 ---
